@@ -1,0 +1,9 @@
+{
+    "RAW_DATA_DIR": "/media/alunotgn/0e7a0a9e-ad6d-4cef-a692-d7003b444387/datasets/raw",
+    "PROCESSED_DATA_DIR": "/media/alunotgn/0e7a0a9e-ad6d-4cef-a692-d7003b444387/datasets/processed",
+    "MODEL_CHECKPOINT_DIR": "./checkpoints/",
+    "MODEL_FINAL_SELECTION_DIR": "./assets/reproduce/",
+    "SUBMISSION_DIR": "./submissions/",
+    "ASSETS_DIR": "./assets/",
+    "TEMP_DIR": "/media/alunotgn/0e7a0a9e-ad6d-4cef-a692-d7003b444387/datasets/tmp"
+}   
